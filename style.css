@@ -1,0 +1,13 @@
+body{
+    background-color: antiquewhite;
+}
+
+.container-fluid{
+
+}
+
+.row{
+    margin: auto;
+    gap: 5px;
+}
+
